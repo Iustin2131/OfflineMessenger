@@ -1,0 +1,2 @@
+
+To develop a client/server application enabling the exchange of messages among connected users and providing the functionality to send messages to users who are offline, with messages appearing to them upon connecting to the server. Additionally, users will be able to send replies specifically to certain received messages. The application will also provide conversation history for and with each individual user.
